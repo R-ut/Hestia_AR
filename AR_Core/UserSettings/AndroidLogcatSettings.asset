@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "R3CXB09130E",
         "name": "com.unity.template.ar_mobile",
-        "processId": 4945,
+        "processId": 8097,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -132,6 +132,48 @@
             "deviceId": "R3CXB09130E",
             "name": "com.unity.template.ar_mobile",
             "processId": 4945,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 5181,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 12277,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 20980,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 31143,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 32660,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 5464,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CXB09130E",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 8097,
             "exited": false
         }
     ],
